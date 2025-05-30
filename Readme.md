@@ -12,15 +12,4 @@
 
 # direct link 
 
-https://rajpra786.github.io/Library-Management-System/index.html
-
----
-# Contributors
-- ##### Rajendra Prajapat
-- ##### Dheeraj Chaudhary
-- ##### Priya Tiru
-- ##### Rajdeep Das
-- ##### Shashank N S
-
-##### Supervised By- Prof. Channappa B AKKI
-###### Academic Year: 2018-2019
+https://hello-bookworm-library.github.io/BookwormLibrary/
